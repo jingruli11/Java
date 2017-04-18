@@ -1,0 +1,145 @@
+dyn-129-236-224-105:Java Michael$ java hw4
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1000;
+ Student Name: Daenerys Targaryen;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1001;
+ Student Name: Rhaergar Targaryen;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1002;
+ Student Name: Tywin Lannister;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1003;
+ Student Name: Jamie Lannister;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1004;
+ Student Name: Cersie Lannister;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1005;
+ Student Name: Tyrion Lannister;
+ Address: Casterly Rock;	 City: Westerlands;	 State: Westeros;
+ Email: tyrion@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1006;
+ Student Name: Jon Snow;
+ Address: Winterfell;	 City: The North;	 State: Westeros;
+ Email: jonsnow@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1007;
+ Student Name: Sansa Stark;
+ Address: Winterfell;	 City: The North;	 State: Westeros;
+ Email: sansastark@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1008;
+ Student Name: Arya Stark;
+ Address: The Twins;	 City: The Riverlands;	 State: Westeros;
+ Email: aryastark@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: George R. R. Martin;
+ Student ID: 1009;
+ Student Name: Brandon Stark;
+ Address: Beyond the Wall;	 City: The North;	 State: Westeros;
+ Email: branstark@got.edu
+
+-----------------------
+Reprint objects:
+-----------------------
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1000;
+ Student Name: Daenerys Targaryen;
+ Address: The Narrow Sea;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1001;
+ Student Name: Rhaergar Targaryen;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1002;
+ Student Name: Tywin Lannister;
+ Address: null;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1003;
+ Student Name: Jamie Lannister;
+ Address: King's Landing;	 City: The Crownlands;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1004;
+ Student Name: Cersie Lannister;
+ Address: King's Landing;	 City: null;	 State: null;
+ Email: null
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1005;
+ Student Name: Tyrion Lannister;
+ Address: Casterly Rock;	 City: Westerlands;	 State: Westeros;
+ Email: tyrion@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1006;
+ Student Name: Jon Snow;
+ Address: Winterfell;	 City: The North;	 State: Westeros;
+ Email: kinginthenorth@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1007;
+ Student Name: Sansa Stark;
+ Address: Winterfell;	 City: The North;	 State: Westeros;
+ Email: sansastark@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1008;
+ Student Name: Arya Stark;
+ Address: The Twins;	 City: The Riverlands;	 State: Westeros;
+ Email: aryastark@got.edu
+
+Class Number: GOTS7;	 Class Name: Game of Thrones;
+ Instructor: David Benioff & D. B. Weiss;
+ Student ID: 1009;
+ Student Name: Brandon Stark;
+ Address: Beyond the Wall;	 City: The North;	 State: Westeros;
+ Email: branstark@got.edu
+

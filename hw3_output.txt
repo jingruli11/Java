@@ -1,0 +1,29 @@
+Michaels-MacBook-Pro:Java Michael$ java hw3 I hear Jerusalem bells are ringing Roman Cavalier Choirs are singing
+0 argument is: I
+1 argument is: hear
+2 argument is: Jerusalem
+3 argument is: bells
+4 argument is: are
+5 argument is: ringing
+6 argument is: Roman
+7 argument is: Cavalier
+8 argument is: Choirs
+9 argument is: are
+10 argument is: singing
+I hear Jerusalem bells are ringing Roman Cavalier Choirs are singing 
+
+Sorted words are: 
+are
+are
+bells
+Cavalier
+Choirs
+hear
+I
+Jerusalem
+ringing
+Roman
+singing
+
+are are bells Cavalier Choirs hear I Jerusalem ringing Roman singing 
+Michaels-MacBook-Pro:Java Michael$ 
